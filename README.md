@@ -26,7 +26,7 @@ A **Software Engineering Student** 🚀 from Israel, Jerusalem.
 
 - 👨🏽‍💻 Full stack development | Machine learning | Deep learning | Computer vision | 
 - 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
+- 🤔 My interests are Computer vision , video processing and developing some useful and cool stuff xD
 - 💼 I’m pursuing a Bachelor's degree in SW eng.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [avihaipp@gmail.com](mailto:avihaipp@gmail.com).
@@ -34,13 +34,10 @@ A **Software Engineering Student** 🚀 from Israel, Jerusalem.
 
 
 ### My Tech Stack
-
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
-![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=ffffff)
-![Rancher](http://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=ffffff)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 
 #### Frontend
@@ -49,8 +46,6 @@ A **Software Engineering Student** 🚀 from Israel, Jerusalem.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 #### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
@@ -61,11 +56,9 @@ A **Software Engineering Student** 🚀 from Israel, Jerusalem.
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)
-![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
@@ -74,12 +67,12 @@ A **Software Engineering Student** 🚀 from Israel, Jerusalem.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Serfati&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Serfati's GitHub Stats">
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+##### Fun fact: I once solved the world's oldest question with a single line of Python
 <!-- wi*quL3fcV -->
 
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+```python
+# Which came first: the chicken or the egg?
+print(['🥚', '🐣', '🐥', '🐔'].sort())
 
->>> [ '🐔', '🐣', '🐥', '🥚' ]
+>>> [ '🐔', '🥚' ,'🐣', '🐥' ]
 ```
