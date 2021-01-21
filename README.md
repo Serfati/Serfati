@@ -1,14 +1,10 @@
-
-<div align="center">
-<h1 title="hehehe"> Hey <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">, I'm Serfati!</h1>
-</div>
-<a href="https://www.linkedin.com/in/zamranxd/">
+<a href="https://www.linkedin.com/in/">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/serfati/">
+<a href="https://www.linkedin.com/in/">
   <img align="left" alt="serfati's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/avi.serfati/">
+<a href="https://www.facebook.com/">
   <img align="left" alt="serfati's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=Serfati&color=blueviolet" align="left">
